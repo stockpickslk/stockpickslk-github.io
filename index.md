@@ -8,4 +8,6 @@ Entry and Exit Strategies: Learn about effective timing for entering and exiting
 
 ## Stay Updated:
 
-Subscribe to receive notifications as soon as new stock recommendations are posted. Join me on this journey towards informed and profitable trading decisions.
+Subscribe to receive notifications as soon as new stock recommendations are posted.
+
+Join me on this journey towards informed and profitable trading decisions.
