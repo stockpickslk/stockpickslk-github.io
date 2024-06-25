@@ -1,4 +1,4 @@
-##Welcome to My Journey as a Trader
+##Welcome to My Journey as a Trader##
 
 Explore the world of stock trading with me as I navigate through markets, analyzing and selecting stocks based on thorough research and strategic insights.
 
