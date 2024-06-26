@@ -9,3 +9,5 @@ Come join me on my journey as a trader. I hope you enjoy exploring the world of 
 ### Stay Updated:
 
 Subscribe to receive notifications as soon as new stock recommendations are posted.
+
+**This blog is under construction. Please come back soon**
