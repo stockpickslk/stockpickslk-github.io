@@ -9,7 +9,6 @@ Ascending Triangle Pattern, Bullish Continuation Pattern
 
 #### Technical Analysis
 
-<img width="454" alt="Screenshot 2024-06-26 at 17 00 49" src="https://github.com/stockpickslk/stockpickslk.github.io/assets/173802017/41f11849-71c8-489f-b30b-e4ba05b3ff70">
 
 
 #### Entry and Exit Points
