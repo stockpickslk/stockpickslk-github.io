@@ -2,9 +2,9 @@ Come join me on my journey as a trader. I hope you enjoy exploring the world of 
 
 ### What You'll Find Here:
 
-Expert Insights: Gain access to my in-depth analysis of stock picks, focusing on both technical indicators and fundamental data.
+*Expert Insights:* Gain access to my in-depth analysis of stock picks, focusing on both technical indicators and fundamental data.
 
-Entry and Exit Strategies: Learn about effective timing for entering and exiting positions, to maximize your potential gains.
+*Entry and Exit Strategies:* Learn about effective timing for entering and exiting positions, to maximize your potential gains.
 
 ### Stay Updated:
 
