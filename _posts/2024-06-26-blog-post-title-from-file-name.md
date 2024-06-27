@@ -1,8 +1,8 @@
-## Nations Trust Bank: Buy the dip @ 127
+## Nations Trust Bank: Buy the dip @ 128.50
 
 I closed my previous position at 135.75, using Fibonacci retracement to identify my exit point, coinciding with the all-time high (ATH) at that time. Yay!
 
-Now, I'm eyeing an entry point around 127. The chart shows two circled doji candles, signaling a potential reversal. Additionally, the notable decrease in volume supports a likely pullback.
+Now, I'm eyeing an entry point around 128. The chart shows two circled doji candles, signaling a potential reversal. Additionally, the notable decrease in volume supports a likely pullback.
 
 ---
 
@@ -19,4 +19,4 @@ Chart for NTB on June 26th:
 
 #### Entry and Exit Points
 
-I plan to enter around 127. I'll provide updated entry and exit points once I've completed a thorough analysis.
+I plan to enter around 128. I'll provide updated entry and exit points once I've completed a thorough analysis.
