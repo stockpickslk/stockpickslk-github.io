@@ -8,6 +8,6 @@ Come join me on my journey as a trader. I hope you enjoy exploring the world of 
 
 ### Stay Updated:
 <a href="mailto:stockpicks.lk@gmail.com?subject=Subscription Request&body=I would like to subscribe to email notifications for new stock recommendations posted on your blog.">Subscribe</a>
- to receive email notifications as soon as new stock recommendations are posted. 
+ to receive email notifications for new stock recommendations. 
 
 
