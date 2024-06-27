@@ -1,8 +1,8 @@
 ## Nations Trust Bank: Buy the dip @ 127
 
-I closed my previous position at 135.75 (I used Fibonacci retracement to find my exit point which just happened to be the ATH during that period).
+I closed my previous position at 135.75, using Fibonacci retracement to identify my exit point, coinciding with the all-time high (ATH) at that time.
 
-I am now setting my next entry point at ~127. Notice the doji candles(circled) in the chart. These 2 dojis signal a reversal in direction. Also notice that the volume has decreased considerably, which also confirms a pullback.
+Now, I'm eyeing an entry point around ~127. The chart shows two circled doji candles, signaling a potential reversal. Additionally, the notable decrease in volume supports a likely pullback.
 
 ---
 
