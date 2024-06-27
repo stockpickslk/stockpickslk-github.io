@@ -7,7 +7,7 @@ Come join me on my journey as a trader. I hope you enjoy exploring the world of 
 *Entry and Exit Strategies:* Learn about effective timing for entering and exiting positions, to maximize your potential gains.
 
 ### Stay Updated:
-<a href="mailto:no-one@snai1mai1.com?subject=free chocolate">example</a>
-Subscribe to receive email notifications as soon as new stock recommendations are posted (I'm working on this). 
+<a href="mailto:stockpicks.lk@gmail.com?subject=Subscription Request">Subscribe</a>
+ to receive email notifications as soon as new stock recommendations are posted (I'm working on this). 
 
 
