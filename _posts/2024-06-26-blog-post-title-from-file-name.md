@@ -2,7 +2,7 @@
 
 I closed my previous position at 135.75 (I used Fibonacci retracement to find my exit point which just happened to be the ATH during that period).
 
-I am now setting my next entry point at ~127. Notice the doji candles(circled) in the chart. These 2 dojis signal a reverse in direction. Also notice that the volume has decreased considerably, which also confirms a pullback.
+I am now setting my next entry point at ~127. Notice the doji candles(circled) in the chart. These 2 dojis signal a reversal in direction. Also notice that the volume has decreased considerably, which also confirms a pullback.
 
 ---
 
