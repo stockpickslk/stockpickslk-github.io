@@ -8,6 +8,6 @@ Come join me on my journey as a trader. I hope you enjoy exploring the world of 
 
 ### Stay Updated:
 
-Subscribe to receive notifications as soon as new stock recommendations are posted.
+Subscribe to receive notifications as soon as new stock recommendations are posted (I'm working on this). 
 
-**This blog is under construction until mid-July 2024.**
+
