@@ -1,4 +1,4 @@
-Come join me on my journey as a trader. I hope you enjoy exploring the world of stock trading with me as I navigate through Colombo Stock Exchange, analyzing and selecting stocks based on thorough research and strategic insights.
+Join me on my trading journey as we explore the dynamic world of stock trading together. Follow along as I navigate the Colombo Stock Exchange, meticulously analyzing and selecting stocks using strategic insights and thorough research.
 
 ### What You'll Find Here:
 
