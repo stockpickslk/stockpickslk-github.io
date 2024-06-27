@@ -19,5 +19,4 @@ Chart for NTB on June 26th:
 
 #### Entry and Exit Points
 
-Entry at around 127. I will update entry/exit once I complete a thorough analysis.
-
+I plan to enter around 127. I'll provide updated entry and exit points once I've completed a thorough analysis.
