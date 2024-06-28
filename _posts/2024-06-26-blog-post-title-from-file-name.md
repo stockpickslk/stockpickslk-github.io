@@ -13,6 +13,7 @@ I'm working on a format to present the visuals. Stay tuned...
 #### Technical Analysis
 
 The chart shows two circled doji candles, signaling a potential reversal. Additionally, the notable decrease in volume supports a likely pullback.
+
 Chart for NTB on June 26th:
 
 ![Website graphics](https://github.com/stockpickslk/stockpickslk.github.io/assets/173802017/476e58d6-f93d-4dac-a234-2353d177aec2)
