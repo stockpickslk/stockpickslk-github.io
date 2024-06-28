@@ -10,7 +10,7 @@ In progress
 
 #### Technical Analysis
 
-![Website graphics-2](https://github.com/stockpickslk/stockpickslk.github.io/assets/173802017/8ca28cf3-718a-42ce-a730-5380d1983952)
+![Website graphics-2-2](https://github.com/stockpickslk/stockpickslk.github.io/assets/173802017/194d8759-cc56-4d9b-8531-4110a6693b64)
 
 
 #### Entry and Exit Points
