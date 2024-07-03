@@ -1,4 +1,4 @@
-## Hatton National Bank(HNB.N): Buy the breakout @ 207
+## Hatton National Bank(HNB.N): Buy the Breakout @ 207
 
 HNB stock is currently forming an Ascending Triangle pattern, which typically signals a bullish continuation. Consider entering a position once the stock breaks out above 207 (i.e., when it closes above 207 on high volume).
 
