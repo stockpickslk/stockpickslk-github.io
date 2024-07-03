@@ -1,4 +1,4 @@
-## BUY: RIL Property forming pennant
+## BUY: RIL Property(RIL.N) forming pennant
 
 RIL is exhibiting a healthy advance; notice volume on 'up' days is larger than 'down' days.
 
