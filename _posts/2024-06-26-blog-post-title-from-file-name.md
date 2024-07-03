@@ -1,4 +1,4 @@
-## Nations Trust Bank: Buy the dip @ 128.50
+## Nations Trust Bank(NTB.N): Buy the dip @ 128.50
 
 I closed my previous position at 135.75, using Fibonacci retracement to identify my exit point, coinciding with the all-time high (ATH) at that time.
 
