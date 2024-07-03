@@ -2,7 +2,7 @@
 
 RIL is exhibiting a healthy advance; notice volume on up days is larger than declining days.
 
-Note: The price adjusted for dividend of .20 on July 1st.
+*Note:* The price adjusted for dividend of .20 on July 1st.
 
 ---
 
