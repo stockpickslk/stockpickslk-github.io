@@ -1,6 +1,6 @@
 ## BUY: RIL Property(RIL.N) forming pennant
 
-RIL is exhibiting a healthy advance; notice volume on 'up' days is larger than 'down' days.
+RIL is exhibiting a healthy advance; notice volume on up days is larger than declining days.
 
 ---
 
