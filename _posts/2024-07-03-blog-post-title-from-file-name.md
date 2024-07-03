@@ -2,7 +2,7 @@
 
 RIL Property is showing a robust upward trend, evidenced by higher trading volumes on days when the price increases compared to days when it declines. This pattern confirms the strength of the movement. The pennant formation suggests a bullish continuation.
 
-*Note:* The stock price was corrected for a 0.20 dividend on July 1st.
+*Note:* The stock price adjusted for a 0.20 dividend on July 1st.
 
 ---
 
