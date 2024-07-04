@@ -1,6 +1,6 @@
 ## BUY Recommendation: RIL Property (RIL.N) – Pennant Formation
 
-RIL Property is showing a robust upward trend, evidenced by higher trading volumes on days when the price increases compared to days when it declines. This pattern confirms the strength of the movement. The pennant formation suggests a bullish continuation.
+RIL Property is showing a robust upward trend, evidenced by higher trading volumes on days when the price increases compared to days when it declines, even though it occurs on very low volume). This pattern confirms the strength of the movement. The pennant formation suggests a bullish continuation.
 
 *Note:* The stock price adjusted for a 0.20 dividend on July 1st.
 
