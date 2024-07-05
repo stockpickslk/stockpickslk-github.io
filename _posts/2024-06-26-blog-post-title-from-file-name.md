@@ -1,8 +1,8 @@
-## Nations Trust Bank(NTB.N): Buy The Dip @ 128.50
+## Nations Trust Bank(NTB.N): Buy The Dip @ 127
 
 I closed my previous position at 135.75, using Fibonacci retracement to identify my exit point, coinciding with the all-time high (ATH) at that time.
 
-Now, I'm eyeing an entry point around 128.
+Now, I'm eyeing an entry point around 127.
 
 ---
 
@@ -21,4 +21,4 @@ Chart for NTB on June 26th:
 
 #### Entry and Exit Points
 
-I plan to enter around 128. I'll provide updated entry and exit points once I've completed a thorough analysis.
+I plan to enter around 127. I'll provide updated entry and exit points once I've completed a thorough analysis.
