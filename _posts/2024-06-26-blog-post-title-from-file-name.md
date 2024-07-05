@@ -22,3 +22,10 @@ Chart for NTB on June 26th:
 #### Entry and Exit Points
 
 I plan to enter around 127. I'll provide updated entry and exit points once I've completed a thorough analysis.
+
+### Update
+
+Chart on 5th July, 2024
+
+![Website graphics-7-2](https://github.com/stockpickslk/stockpickslk.github.io/assets/173802017/77a9b54c-de08-4e73-b2a8-ce322377deb3)
+
