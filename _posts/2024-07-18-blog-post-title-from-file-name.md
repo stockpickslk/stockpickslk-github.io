@@ -7,7 +7,7 @@ Consider this scenario involving a broker collaborating with a network of operat
 #### 2. Spread Misinformation:
    Brokers then inform their clients that SLTL is at an all-time low, having just dropped in price, and suggest it as a good short-term buy.
 #### 3. Begin Distribution:
-   As people start buying, they initiate the distribution phase. This is indicated by a green candle with a long wick. Despite the volume being 10 times that of the previous red candle, the price barely moves up—classic distribution behavior.
+   As people start buying, they initiate the distribution phase. This is indicated by a green candle with a long wick and 174,000 share volume. Despite the volume being 10 times that of the previous red candle, the price barely moves up—classic distribution behavior.
 #### 4. Dump the Shares:
    Finally, they offload the remaining 400,000 shares to unsuspecting investors.
 Pay close attention to the timestamps on the chart and the WhatsApp messages (ignoring any unrelated messages in the thread). The timing reveals the scam.
