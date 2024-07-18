@@ -10,6 +10,7 @@ Consider this scenario involving a broker collaborating with a network of operat
    As people start buying, they initiate the distribution phase. This is indicated by a green candle with a long wick and 174,000 share volume. Despite the volume being 10 times that of the previous red candle, the price barely moves up—classic distribution behavior.
 #### 4. Dump the Shares:
    Finally, they offload the remaining of the 400,000 shares to unsuspecting investors.
+
 Pay close attention to the timestamps on the chart and the WhatsApp messages (ignoring any unrelated messages in the thread). The timing reveals the scam.
 
 ---
