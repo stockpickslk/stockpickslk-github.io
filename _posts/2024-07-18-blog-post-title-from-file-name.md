@@ -16,6 +16,7 @@ Pay close attention to the timestamps on the chart and the WhatsApp messages (ig
 ---
 ![Screenshot 2024-07-18 at 18 48 07-2](https://github.com/user-attachments/assets/a4943d21-6bd1-4053-8876-d33fdfd3fee5)
 
+
 ![Screenshot_20240718_184957_WhatsApp copy](https://github.com/user-attachments/assets/6a015f46-2a97-4361-9a65-73d20dfc3094)
 
 ![Screenshot_20240718_185106_WhatsApp copy-2](https://github.com/user-attachments/assets/d22f5682-b8dd-4ac1-9867-15ec0fba4630)
