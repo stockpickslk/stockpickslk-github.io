@@ -1,6 +1,6 @@
 ## Beware of Fake Stock Tips
 
-Consider this scenario involving a broker collaborating with a network of operators to sell 400,000 SLTL shares in a single day:
+Consider this scenario(Bear Raid) involving a broker collaborating with a network of operators to sell 400,000 SLTL shares in a single day:
 
 #### 1. Manipulate the Price:
    They start by selling 30,000 shares, causing the price to drop from 76 to 70. This is evident from the large red candle and the one preceding it on the chart.
