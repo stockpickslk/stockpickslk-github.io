@@ -22,3 +22,6 @@ Pay close attention to the timestamps on the chart and the WhatsApp messages (ig
 ![Screenshot_20240718_185106_WhatsApp copy-2](https://github.com/user-attachments/assets/d22f5682-b8dd-4ac1-9867-15ec0fba4630)
 
 ![Screenshot_20240718_185215_WhatsApp copy-2](https://github.com/user-attachments/assets/8a288c81-fdf3-4c33-b9dd-7aae2642533f)
+
+“A man must believe in himself and his judgment if he expects to make a living at this game. That is why I don’t believe in tips.”
+   - Reminiscences of a Stock Operator by Edwin Lefèvre
