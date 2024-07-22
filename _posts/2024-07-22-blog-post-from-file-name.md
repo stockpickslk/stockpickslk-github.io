@@ -1,7 +1,6 @@
 ## CSE All Share Index(ASI) Price vs Volume Chart
 
-Closing price / volume chart is not available anywhere. Not at CSE nor my broker. So I created my own.
-
+The closing price and volume chart isn't available anywhere, not on the CSE or through my broker. So, I decided to create my own.
 
 ---
 
