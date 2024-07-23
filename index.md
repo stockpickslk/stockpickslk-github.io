@@ -9,7 +9,7 @@ Join me on my trading journey as we explore the dynamic world of stock trading t
 ### Stay Updated:
 <a href="mailto:stockpicks.lk@gmail.com?subject=Subscription Request&body=I would like to subscribe to email notifications for new stock recommendations posted on your blog.">Subscribe</a> to receive email notifications for new stock recommendations. 
 
-Happy trading!
-
 *This info isn't a recommendation for what you should personally do, so please don't take the data as investment advice. As with any trade, always look first, then leap.*
+
+Happy trading!
 
