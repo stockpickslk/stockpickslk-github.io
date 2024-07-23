@@ -11,4 +11,4 @@ Join me on my trading journey as we explore the dynamic world of stock trading t
 
 Happy trading!
 
-<span style="color:red">This info isn't a recommendation for what you should personally do, so please don't take the data as investment advice. As with any trade, always look first, then leap.</span>
+*This info isn't a recommendation for what you should personally do, so please don't take the data as investment advice. As with any trade, always look first, then leap.*
