@@ -8,7 +8,7 @@ Brace yourself. Margin calls are coming!
 
 ### Update July 24th
 
-The ASI rebounded from the support level at 11,540 and is likely to retest this level. Additionally, there is trendline support at 11,500. It is important to note that the previous support at 11,800 has now become resistance due to the recent drop below this level.
+The ASI rebounded from the support level at 11,540 and is **likely to retest this level**. Additionally, there is trendline support at 11,500. It is important to note that the previous support at 11,800 has now become resistance due to the recent drop below this level.
 
 ---
 
