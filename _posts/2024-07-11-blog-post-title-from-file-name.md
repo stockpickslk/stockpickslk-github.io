@@ -2,7 +2,6 @@
 
 Brace yourself. Margin calls are coming!
 
-
 ---
 
 ![Website graphics-8-2](https://github.com/user-attachments/assets/c57977a0-bccb-444d-aba7-f9b4115dc4da)
@@ -11,6 +10,9 @@ Brace yourself. Margin calls are coming!
 
 The ASI rebounded from the support level at 11,540 and is likely to retest this level. Additionally, there is trendline support at 11,500. It is important to note that the previous support at 11,800 has now become resistance due to the recent drop below this level.
 
+---
+
+![Website graphics-10-2](https://github.com/user-attachments/assets/ded6ec0b-28ba-40de-a3b6-277b1e4ac969)
 
 
 
