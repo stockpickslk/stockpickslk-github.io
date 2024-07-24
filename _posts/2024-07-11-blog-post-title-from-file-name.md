@@ -12,7 +12,7 @@ The ASI rebounded from the support level at 11,540 and is **likely to retest thi
 
 ---
 
-![Website graphics-10-2](https://github.com/user-attachments/assets/ded6ec0b-28ba-40de-a3b6-277b1e4ac969)
+![Website graphics-10-2](https://github.com/user-attachments/assets/d282b158-dd8c-4f6b-a0c0-39128301da7a)
 
 
 
