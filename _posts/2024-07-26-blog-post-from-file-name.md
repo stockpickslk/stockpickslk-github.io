@@ -1,7 +1,11 @@
 ## Patience is the Path to Prosperity
 
-Patience is the path to prosperity. The market is currently on a downward slide, but I'll have some promising stock picks for you once the trend turns around.
+The market is currently on a downward slide, but I'll have some promising stock picks for you once the trend turns around.
 
 ---
 
-![Website graphics-9-2](https://github.com/user-attachments/assets/03a0c520-de7f-4535-bd65-840ec1af4bd5)
+![Screenshot 2024-07-26 at 18 14 27](https://github.com/user-attachments/assets/c1313fdd-ee94-4586-96f2-1b445dc60cf1)
+
+---
+
+"The stock market is a device for transferring money from the impatient to the patient." - Warren Buffet
